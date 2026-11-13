@@ -73,3 +73,15 @@
 <p align="center">
   <i>✨ Keep learning. Keep building. Keep growing. ✨</i>
 </p>
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Abiramasree">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abiramasree-k-335003325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
